@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
         final double phi = 3.14;
-        double L, r, d;
+        double L, r;
         
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan r = ");
