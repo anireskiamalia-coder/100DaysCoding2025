@@ -20,6 +20,6 @@ public class main{
 
         } else {
             System.out.println("Tidak lulus");
-        
+        }
     }
 }
