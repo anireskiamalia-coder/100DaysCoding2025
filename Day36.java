@@ -13,9 +13,9 @@ public class main{
             if (nilai >= 90) {
                 System.out.println("Predikat A");
             } else if (nilai >= 80) {
-                System.out.println("Predikat C");
+                System.out.println("Predikat B");
             } else {
-                System.out.println("Predikay D");
+                System.out.println("Predikay C");
             }
 
         } else {
