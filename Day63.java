@@ -10,6 +10,6 @@ public class day63 {
             jumlah *= i;
         }  
         
-        System.out.println("\nHasi kali dari 1-"+N+" adalah "+jumlah);
+        System.out.println("\nHasil kali dari 1-"+N+" adalah "+jumlah);
     }
 }
