@@ -7,7 +7,7 @@ public class Day98 {
         System.out.print("Masukkan nilai n: ");
         int n = sc.nextInt();
 
-        int a = 1, b = 1;
+        int a = 0, b = 1;
 
         System.out.print("Deret Fibonacci: ");
 
